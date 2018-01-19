@@ -7,7 +7,8 @@ Version: 1.2
 Author: Stephen B
 Author Email: plugins@stephenb.co.uk
 License: GPLv2 or later
-*/
+ */
+require(__DIR__ . "/easy_image_sizes_greyscale.php");
 
 require(__DIR__ . "/easy_image_sizes_core.php");
 
