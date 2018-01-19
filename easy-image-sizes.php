@@ -3,7 +3,7 @@
 Plugin Name: Easy Image Sizes
 Plugin URI:  https://www.stephenb.co.uk/easy-image-sizes-for-wordpress/
 Description: Add new images sizes to WordPress the easy way
-Version: 1.1.1
+Version: 1.2
 Author: Stephen B
 Author Email: plugins@stephenb.co.uk
 License: GPLv2 or later

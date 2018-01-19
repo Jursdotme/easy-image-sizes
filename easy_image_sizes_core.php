@@ -283,8 +283,7 @@ class Easy_Image_Sizes_Core {
                 echo $dimensions;
                 
                 break;
-    
-            /* If displaying the 'genre' column. */
+
             case 'cropped':
                 $cropped = $this->getMetaForEasyImageSizes('easy_image_sizes_cropped', $post_id);
                 

@@ -23,12 +23,15 @@
     font-style:italic;
     color:#999999;
 }
-
 #easy_image_sizes-easy_image_sizes .inside input[type="text"],
 #easy_image_sizes-easy_image_sizes .inside input[type="number"],
 #easy_image_sizes-easy_image_sizes .inside select {
     width:100%;
     padding:8px;
+}
+#easy_image_sizes-easy_image_sizes .inside input[type="text"],
+#easy_image_sizes-easy_image_sizes .inside input[type="number"] {
+    height:36px;
 }
 #easy_image_sizes-easy_image_sizes .inside select {
     height:37px;
